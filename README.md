@@ -1,1 +1,2 @@
-# gitskills
+﻿# gitskills
+# git is very goods
